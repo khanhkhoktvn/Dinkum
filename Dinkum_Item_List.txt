@@ -1959,3 +1959,5 @@ ID: 1957, Name: Battlegrounds Shoes
 ID: 1958, Name: Macquarie Perch
 ID: 1959, Name: Spotted Handfish
 ID: 1960, Name: Lungfish
+ID: 1961, Name: Bone Shirt
+ID: 1962, Name: Bone Pants
