@@ -1976,7 +1976,7 @@ ID: 1974, Name:
 ID: 1975, Name: 
 ID: 1976, Name: 
 ID: 1977, Name: 
-ID: 1978, Name: 
+ID: 1978, Name: Glowing Hang Glider
 ID: 1979, Name: 
 ID: 1980, Name: 
 ID: 1981, Name: 
@@ -2109,23 +2109,23 @@ ID: 2107, Name:
 ID: 2108, Name: 
 ID: 2109, Name: 
 ID: 2110, Name: 
-ID: 2111, Name: 
-ID: 2112, Name: 
-ID: 2113, Name: 
-ID: 2114, Name: 
-ID: 2115, Name: 
-ID: 2116, Name: 
-ID: 2117, Name: 
-ID: 2118, Name: 
-ID: 2119, Name: 
-ID: 2120, Name: 
-ID: 2121, Name: 
-ID: 2122, Name: 
-ID: 2123, Name: 
-ID: 2124, Name: 
-ID: 2125, Name: 
-ID: 2126, Name: 
-ID: 2127, Name: 
-ID: 2128, Name: 
-ID: 2129, Name: 
-ID: 2130, Name: 
+ID: 2111, Name: Messenger Pack
+ID: 2112, Name: Guitar Pack
+ID: 2113, Name: Bum Bag Pack
+ID: 2114, Name: Hard Pack
+ID: 2115, Name: Handbag Pack
+ID: 2116, Name: Tote Pack
+ID: 2117, Name: Hunter's Stand
+ID: 2118, Name: Scooter
+ID: 2119, Name: Secateurs
+ID: 2120, Name: Black Pocket Watch
+ID: 2121, Name: Hunter Helmet
+ID: 2122, Name: Alpha Plant Hammer
+ID: 2123, Name: Whit Pig Face
+ID: 2124, Name: Red Pig Face
+ID: 2125, Name: Tome of Wounding
+ID: 2126, Name: Airship Souvenir
+ID: 2127, Name: Lighthouse Souvenir
+ID: 2128, Name: Shark Statue Souvenir
+ID: 2129, Name: Orb of Stars
+ID: 2130, Name: Invisible Glider
